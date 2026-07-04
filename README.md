@@ -119,14 +119,16 @@ columns.
 
 ## Executive Dashboard
 
-The executive dashboard provides a high-level overview of warehouse
-operations using KPI cards and summary visuals.
+The executive dashboard provides a high-level overview of the supply chain by summarizing warehouse operations, inventory performance, supplier efficiency, and customer satisfaction using KPI cards and analytical visuals.
 
 Key observations:
-
--   Displays overall warehouse performance.
--   Tracks sales, costs and profitability.
--   Monitors inventory utilization and delivery efficiency.
+-  Displays key business KPIs including Total Cost (42M), Total Monthly Sales (3M), Average Delivery Days (7), Average Customer Rating (3), Average Inventory Turnover (2), and Average Risk Score (45).
+-  Compares Average Total Cost and Average Monthly Sales across the top-performing warehouses.
+-  Analyzes supplier performance by comparing Lead Time Days with Stockout Risk.
+-  Monitors Average Stock Utilization against the target utilization of 80% using a gauge chart.
+-  Identifies the Top 5 Warehouses based on Sales per Employee.
+-  Shows the percentage contribution of Operational, Storage, and Transportation Costs for each product category.
+-  Compares customer ratings across different product categories.
 
 ![Executive Dashboard](https://github.com/user-attachments/assets/264747bf-2c94-4b1d-abb7-b69f0ddc1084)
 
