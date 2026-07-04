@@ -152,7 +152,7 @@ The product performance dashboard visualizes product sales distribution across w
 
 Key observations:
 -  Displays the highest monthly sales for each product category across different warehouse locations.
--  sales performance among locations including Atlanta, Miami, Chicago, San Francisco, New York, Dallas, Denver, Houston, Los Angeles, and Seattle.
+-  Sales performance among locations including Atlanta, Miami, Chicago, San Francisco, New York, Dallas, Denver, Houston, Los Angeles, and Seattle.
 -  Highlights the contribution of Furniture, Electronics, Groceries, Apparel, and Automotive within each location.
 -  Makes it easy to identify dominant products and regional demand patterns through proportional treemap blocks.
   
