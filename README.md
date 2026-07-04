@@ -117,10 +117,6 @@ columns.
 -   **Risk Score** -- Indicates operational risk.
 -   **Stock Utilization** -- Warehouse capacity utilization.
 
-### Dashboard Snapshot
-
-![Dashboard Overview](https://github.com/user-attachments/assets/264747bf-2c94-4b1d-abb7-b69f0ddc1084)
-
 ## Executive Dashboard
 
 The executive dashboard provides a high-level overview of warehouse
@@ -132,7 +128,7 @@ Key observations:
 -   Tracks sales, costs and profitability.
 -   Monitors inventory utilization and delivery efficiency.
 
-> *(Insert Executive Dashboard Image)*
+![Executive Dashboard](https://github.com/user-attachments/assets/264747bf-2c94-4b1d-abb7-b69f0ddc1084)
 
 ## Warehouse Performance Dashboard
 
