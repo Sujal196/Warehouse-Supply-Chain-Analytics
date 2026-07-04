@@ -119,7 +119,7 @@ columns.
 
 ### Dashboard Snapshot
 
-> *(Insert Dashboard Overview Image)*
+![Dashboard Overview](https://github.com/user-attachments/assets/264747bf-2c94-4b1d-abb7-b69f0ddc1084)
 
 ## Executive Dashboard
 
