@@ -134,14 +134,16 @@ Key observations:
 
 ## Warehouse Operations Dashboard
 
-The warehouse operations dashboard provides detailed warehouse information through an interactive table for operational monitoring.
+The warehouse operations dashboard provides a detailed operational view of individual warehouses through an interactive data table for monitoring inventory, logistics, suppliers, and warehouse performance.
 
 Key observations:
--  Displays warehouse capacity, stock, and sales details.
--  Tracks lead time, shipping, and delivery efficiency.
--  Monitors supplier information and stockout risk.
+-  Displays warehouse-wise operational details including Warehouse ID, Location, Warehouse Capacity, and Current Stock.
+-  Tracks logistics metrics such as Lead Time Days, Order Processing Time, Shipping Time, and Delivery Efficiency.
+-  Provides supplier and product information for every warehouse.
+-  Displays Monthly Sales and Stockout Risk to evaluate operational performance.
+-  Supports detailed warehouse-level analysis using interactive slicers for Warehouse, Location, Supplier, and Product Category.
 
-![Executive Dashboard](https://github.com/user-attachments/assets/bb2f1d1b-04b7-4507-b452-b86e65b19a80)
+![Warehouse Operations Dashboard](https://github.com/user-attachments/assets/bb2f1d1b-04b7-4507-b452-b86e65b19a80)
 
 
 ## Proudct Performance Dashboard
