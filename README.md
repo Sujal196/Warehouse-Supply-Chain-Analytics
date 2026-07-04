@@ -148,7 +148,15 @@ Key observations:
 
 ## Proudct Performance Dashboard
 
-![Executive Dashboard]()
+The product performance dashboard visualizes product sales distribution across warehouse locations using a treemap, enabling quick identification of high-performing locations and product categories.
+
+Key observations:
+-  Displays the highest monthly sales for each product category across different warehouse locations.
+-  sales performance among locations including Atlanta, Miami, Chicago, San Francisco, New York, Dallas, Denver, Houston, Los Angeles, and Seattle.
+-  Highlights the contribution of Furniture, Electronics, Groceries, Apparel, and Automotive within each location.
+-  Makes it easy to identify dominant products and regional demand patterns through proportional treemap blocks.
+-  
+![Executive Dashboard](https://github.com/user-attachments/assets/47448725-03a4-4d6f-8301-faa6232f1357)
 
 
 ## Financial Performance Dashboard
