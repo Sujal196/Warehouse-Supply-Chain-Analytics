@@ -69,9 +69,9 @@ columns.
 
 ### Data Preparation
 
--   Step 1 : Imported warehouse inventory dataset into **Power BI
-    Desktop**.
--   Step 2 : Opened **Power Query Editor** and enabled Column Quality,
+-   Step 1 : Imported warehouse inventory dataset into Power BI
+    Desktop.
+-   Step 2 : Opened Power Query Editor and enabled Column Quality,
     Column Distribution and Column Profile.
 -   Step 3 : Enabled profiling for the entire dataset.
 -   Step 4 : Corrected data types for numerical and categorical columns.
@@ -101,7 +101,7 @@ columns.
 
 ### Deployment
 
--   Step 13 : Published the report to **Power BI Service** for business
+-   Step 13 : Published the report to Power BI Service for business
     users.
 
 ## Key Performance Indicators (KPIs)
