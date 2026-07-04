@@ -134,15 +134,10 @@ Key observations:
 
 ## Warehouse Operations Dashboard
 
-![Executive Dashboard]()
+![Executive Dashboard](https://github.com/user-attachments/assets/bb2f1d1b-04b7-4507-b452-b86e65b19a80)
 
 
 ## Proudct Performance Dashboard
-
-![Executive Dashboard]()
-
-
-## Financial Dashboard
 
 ![Executive Dashboard]()
 
@@ -174,7 +169,7 @@ Key observations:
 
 ## Conclusion
 
-The **Warehouse Inventory & Supply Chain Analytics Dashboard** provides
+The **Warehouse Supply Chain Analytics Dashboard** provides
 a comprehensive business intelligence solution for monitoring warehouse
 operations, inventory performance and financial outcomes. By integrating
 DAX measures, interactive visualizations and operational KPIs, the
