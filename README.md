@@ -164,11 +164,11 @@ Key observations:
 The financial performance dashboard analyzes the relationship between operational cost, monthly sales, and estimated profit across warehouse locations using an interactive bubble chart.
 
 Key observations:
-Compares Total Cost, Monthly Sales, and Estimated Profit for different warehouse locations.
-Represents warehouse performance using bubble size and position to visualize financial relationships.
-Enables comparison among locations including Atlanta, Chicago, Dallas, Denver, Houston, Los Angeles, Miami, New York, San Francisco, and Seattle.
-Helps identify locations with higher profitability and operational costs.
-Supports financial decision-making by highlighting cost-efficient and high-performing warehouse locations.
+-  Compares Total Cost, Monthly Sales, and Estimated Profit for different warehouse locations.
+-  Represents warehouse performance using bubble size and position to visualize financial relationships.
+-  Enables comparison among locations including Atlanta, Chicago, Dallas, Denver, Houston, Los Angeles, Miami, New York, San Francisco, and Seattle.
+-  Helps identify locations with higher profitability and operational costs.
+-  Supports financial decision-making by highlighting cost-efficient and high-performing warehouse locations.
 
 ![Executive Dashboard](https://github.com/user-attachments/assets/5c27fce2-6870-4e64-b33b-fec8ff963225)
 
