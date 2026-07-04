@@ -173,7 +173,20 @@ Key observations:
 ![Executive Dashboard](https://github.com/user-attachments/assets/5c27fce2-6870-4e64-b33b-fec8ff963225)
 
 
-##
+## Cost & Risk Analysis Dashboard
+
+The Cost & Risk Analysis dashboard provides a high-level overview of product cost distribution and inventory risk levels by summarizing financial performance and operational risk using KPI cards and analytical visuals.
+
+Key observations:
+-  Compares the Total Cost contribution across different product categories using a pie chart.
+-  Analyzes the distribution of Low Risk, Medium Risk, and High Risk inventory through a donut chart.
+-  Enables dynamic analysis using Warehouse ID, Location, Supplier ID, and Product Category slicers.
+-  Provides quick navigation between Monthly Sales, Total Cost, Stock Status, and Risk Level report pages.
+-  Helps identify cost-intensive product categories and monitor overall inventory risk for better decision-making.
+
+  ![Executive Dashboard](https://github.com/user-attachments/assets/a4176a4c-cfa4-46eb-bf45-df719efa6e8c)
+
+  
 ### Slicers
 
 -   Warehouse ID
