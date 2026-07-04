@@ -184,7 +184,7 @@ Key observations:
 -  Provides quick navigation between Monthly Sales, Total Cost, Stock Status, and Risk Level report pages.
 -  Helps identify cost-intensive product categories and monitor overall inventory risk for better decision-making.
 
-  ![Executive Dashboard](https://github.com/user-attachments/assets/a4176a4c-cfa4-46eb-bf45-df719efa6e8c)
+  ![Executive Dashboard](https://github.com/user-attachments/assets/abd98a8d-8671-497e-9b06-5edb37ceaad1)
 
   
 ### Slicers
