@@ -132,57 +132,27 @@ Key observations:
 
 ![Executive Dashboard](https://github.com/user-attachments/assets/264747bf-2c94-4b1d-abb7-b69f0ddc1084)
 
-## Warehouse Performance Dashboard
+## Warehouse Operations Dashboard
 
-This page evaluates warehouse performance using warehouse-wise
-comparisons.
+![Executive Dashboard]()
 
-Key findings:
 
--   Top-performing warehouses identified by monthly sales.
--   Employee productivity compared using Sales per Employee.
--   Warehouse capacity utilization monitored.
+## Proudct Performance Dashboard
 
-> *(Insert Warehouse Performance Image)*
+![Executive Dashboard]()
 
-## Supply Chain Dashboard
-
-This dashboard focuses on logistics and supplier performance.
-
-Key findings:
-
--   Lead Time compared with Stockout Risk.
--   Delivery Efficiency monitored across warehouses.
--   Supplier performance evaluated for operational planning.
-
-> *(Insert Supply Chain Dashboard Image)*
 
 ## Financial Dashboard
 
-Financial analysis compares costs and profitability.
+![Executive Dashboard]()
 
-Key findings:
 
--   Operational, Storage and Transportation Costs analyzed.
--   Cost versus Sales versus Estimated Profit relationships identified.
--   High-cost and low-profit warehouses highlighted.
+## Financial Performance Dashboard
 
-> *(Insert Financial Dashboard Image)*
+![Executive Dashboard]()
 
-## Product & Inventory Dashboard
 
-Analyzes inventory and product category performance.
-
-Key findings:
-
--   Product category contribution visualized.
--   Inventory Turnover compared across warehouses.
--   Stock Status classified as Balanced, Understocked and Overstocked.
-
-> *(Insert Product Dashboard Image)*
-
-## Filters
-
+##
 ### Slicers
 
 -   Warehouse ID
