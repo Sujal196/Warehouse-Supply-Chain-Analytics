@@ -134,6 +134,13 @@ Key observations:
 
 ## Warehouse Operations Dashboard
 
+The warehouse operations dashboard provides detailed warehouse information through an interactive table for operational monitoring.
+
+Key observations:
+-  Displays warehouse capacity, stock, and sales details.
+-  Tracks lead time, shipping, and delivery efficiency.
+-  Monitors supplier information and stockout risk.
+
 ![Executive Dashboard](https://github.com/user-attachments/assets/bb2f1d1b-04b7-4507-b452-b86e65b19a80)
 
 
